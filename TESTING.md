@@ -1,4 +1,4 @@
-# Testing Strategy – Quick-Calc
+# Testing Strategy – Basic Calculator
 
 ## Overview
 

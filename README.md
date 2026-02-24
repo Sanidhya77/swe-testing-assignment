@@ -77,7 +77,7 @@ All tests can be executed using:
 pytest
 ```
 
-The test suite includes both unit and integration tests and supports regression testing.
+The test suite includes both unit and integration tests and serves as a regression safety mechanism.
 
 ---
 
